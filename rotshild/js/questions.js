@@ -14,7 +14,7 @@ let questions = [
 
   {
     numb: 2,
-    question: "1",
+    question: "שאלה",
     answer: "א",
     options: [
       "א",
